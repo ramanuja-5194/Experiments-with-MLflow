@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a2e6a0e87d954ff480129d008dadd143/artifacts
+end_time: 1751370215469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2e6a0e87d954ff480129d008dadd143
+run_name: smiling-midge-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751370214689
+status: 4
+tags: []
+user_id: RAMANUJA

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/71a91a56d3d84483814adc765213b99f/artifacts
+end_time: 1751370503999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71a91a56d3d84483814adc765213b99f
+run_name: capricious-kite-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751370503570
+status: 3
+tags: []
+user_id: RAMANUJA

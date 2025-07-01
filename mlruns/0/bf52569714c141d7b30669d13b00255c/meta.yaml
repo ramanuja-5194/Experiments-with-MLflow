@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bf52569714c141d7b30669d13b00255c/artifacts
+end_time: 1751371033911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf52569714c141d7b30669d13b00255c
+run_name: loud-roo-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751371033473
+status: 3
+tags: []
+user_id: RAMANUJA

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/537032797916371542/7de80e6ad71d4aed8d5c48a3817b0a81/artifacts
+end_time: 1751371209627
+entry_point_name: ''
+experiment_id: '537032797916371542'
+lifecycle_stage: active
+run_id: 7de80e6ad71d4aed8d5c48a3817b0a81
+run_name: gentle-gnat-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751371209221
+status: 3
+tags: []
+user_id: RAMANUJA

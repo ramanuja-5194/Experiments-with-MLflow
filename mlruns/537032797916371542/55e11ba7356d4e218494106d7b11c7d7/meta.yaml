@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/537032797916371542/55e11ba7356d4e218494106d7b11c7d7/artifacts
+end_time: 1751371867979
+entry_point_name: ''
+experiment_id: '537032797916371542'
+lifecycle_stage: active
+run_id: 55e11ba7356d4e218494106d7b11c7d7
+run_name: spiffy-ant-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751371858541
+status: 3
+tags: []
+user_id: RAMANUJA

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cdf2740911594dfbbfa46ae8e525ee93/artifacts
+end_time: 1751369178002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdf2740911594dfbbfa46ae8e525ee93
+run_name: aged-crow-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751369177934
+status: 3
+tags: []
+user_id: RAMANUJA
