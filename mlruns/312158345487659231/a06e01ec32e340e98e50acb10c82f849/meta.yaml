@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/RAMANUJA/Desktop/MLOps/Experiments-with-MLflow/mlruns/312158345487659231/a06e01ec32e340e98e50acb10c82f849/artifacts
+end_time: 1751377801324
+entry_point_name: ''
+experiment_id: '312158345487659231'
+lifecycle_stage: active
+run_id: a06e01ec32e340e98e50acb10c82f849
+run_name: redolent-grouse-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751377801269
+status: 3
+tags: []
+user_id: RAMANUJA

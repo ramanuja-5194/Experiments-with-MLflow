@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/RAMANUJA/Desktop/MLOps/Experiments-with-MLflow/mlruns/312158345487659231/2d29326a909d4ed281e22040dbe82ab9/artifacts
+end_time: 1751377801019
+entry_point_name: ''
+experiment_id: '312158345487659231'
+lifecycle_stage: active
+run_id: 2d29326a909d4ed281e22040dbe82ab9
+run_name: fearless-carp-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751377800963
+status: 3
+tags: []
+user_id: RAMANUJA

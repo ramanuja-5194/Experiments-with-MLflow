@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/RAMANUJA/Desktop/MLOps/Experiments-with-MLflow/mlruns/312158345487659231/b523eaaa32f3490f8eef3bd3b7d27324/artifacts
+end_time: 1751377800837
+entry_point_name: ''
+experiment_id: '312158345487659231'
+lifecycle_stage: active
+run_id: b523eaaa32f3490f8eef3bd3b7d27324
+run_name: gaudy-yak-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751377800778
+status: 3
+tags: []
+user_id: RAMANUJA

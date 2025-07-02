@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/RAMANUJA/Desktop/MLOps/Experiments-with-MLflow/mlruns/312158345487659231/99541905c1464d50affd1992fd6a883f/artifacts
+end_time: 1751377801510
+entry_point_name: ''
+experiment_id: '312158345487659231'
+lifecycle_stage: active
+run_id: 99541905c1464d50affd1992fd6a883f
+run_name: resilient-koi-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751377801454
+status: 3
+tags: []
+user_id: RAMANUJA
